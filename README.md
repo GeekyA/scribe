@@ -21,14 +21,15 @@ Scribe is a powerful command-line interface (CLI) tool designed to assist develo
 ```bash
 ANTHROPIC_API_KEY=YOUR_ANTHROPIC_KEY
 ```
-
-### Initialize a Project
-
+<!---
+ ### Initialize a Project
 ```bash
 scribe init
 ```
 
 This command sets up the Scribe configuration for your project, creating a `scribeconfig` directory and updating your `.gitignore` file.
+-->
+
 
 ### Write to a Single File
 
