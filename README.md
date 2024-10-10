@@ -13,8 +13,9 @@ Scribe is a powerful command-line interface (CLI) tool designed to assist develo
 
 ## Installation
 
-(Add installation instructions here)
-
+```bash
+pip install scribe-ai
+```
 ## Usage
 ### Setup your Anthropic key to interact with claude-3.5
 
