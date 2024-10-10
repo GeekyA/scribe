@@ -5,8 +5,8 @@ setup(
     version='0.0.1',          # Version of the package
     packages=find_packages(), # Automatically find packages
     install_requires=[        # Dependencies
-        'click',
-        'anthropic'
+        'click==8.1.7',
+        'anthropic==0.34.2'
     ],
     author='Ansh Chadha',       # Package author
     author_email='anshchadha9211@gmail.com', # Author email
